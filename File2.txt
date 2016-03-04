@@ -1,0 +1,1 @@
+XPath is a language for finding information in an XML file. You can say that XPath is (sort of) SQL for XML files. XPath is used to navigate through elements and attributes in an XML document. You can also use XPath to traverse through an XML file in Java.
